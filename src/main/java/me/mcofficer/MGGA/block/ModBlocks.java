@@ -14,7 +14,12 @@ public class ModBlocks {
 
 
 	public static void initBlocks() {
+		CreativeTabs bb = CreativeTabs.BUILDING_BLOCKS;
 
+		createBlock("ore_ruby", Material.ROCK, bb);
+		createBlock("ore_sapphire", Material.ROCK, bb);
+		createBlock("ore_malachite", Material.ROCK, bb);
+		createBlock("ore_amethyst", Material.ROCK, bb);
 	}
 
 	public static void register(IForgeRegistry<Block> registry) {
