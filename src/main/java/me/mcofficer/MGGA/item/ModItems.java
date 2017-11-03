@@ -28,6 +28,9 @@ public class ModItems {
 		CreativeTabs materials = CreativeTabs.MATERIALS;
 
 		createItem("gem_ruby", materials);
+		createItem("gem_sapphire", materials);
+		createItem("gem_malachite", materials);
+		createItem("gem_amethyst", materials);
 	}
 
 	public static void createItem  (String name, CreativeTabs tab) {
