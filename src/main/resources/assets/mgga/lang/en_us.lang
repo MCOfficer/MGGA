@@ -1,0 +1,88 @@
+< en_US.lang - English localization file for the mod MGGA >
+
+item.gemRuby.name=Ruby
+item.gemSapphire.name=Sapphire
+item.gemAmethyst.name=Amethyst
+item.gemMalachite.name=Malachite
+item.ingotGemIron.name=Gem-Iron Ingot
+
+tile.oreRuby.name=Ruby Ore
+tile.oreSapphire.name=Sapphire Ore
+tile.oreAmethyst.name=Amethyst Ore
+tile.oreMalachite.name=Malachite Ore
+
+tile.blockRuby.name=Block of Ruby
+tile.blockSapphire.name=Block of Sapphire
+tile.blockAmethyst.name=Block of Amethyst
+tile.blockMalachite.name=Block of Malachite
+tile.blockGemIron.name=Block of Gem-Iron
+
+item.swordRuby.name=Ruby Sword
+item.swordSapphire.name=Sapphire Sword
+item.swordAmethyst.name=Amethyst Sword
+item.swordMalachite.name=Malachite Sword
+item.swordEmerald.name=Emerald Sword
+item.swordGemIron.name=Gem-Iron Sword
+
+item.bowRuby.name=Ruby Bow
+item.bowSapphire.name=Sapphire Bow
+item.bowAmethyst.name=Amethyst Bow
+item.bowMalachite.name=Malachite Bow
+item.bowEmerald.name=Emerald Bow
+item.bowGemIron.name=Gem-Iron Bow
+
+item.pickaxeRuby.name=Ruby Pickaxe
+item.pickaxeSapphire.name=Sapphire Pickaxe
+item.pickaxeAmethyst.name=Amethyst Pickaxe
+item.pickaxeMalachite.name=Malachite Pickaxe
+item.pickaxeEmerald.name=Emerald Pickaxe
+item.pickaxeGemIron.name=Gem-Iron Pickaxe
+
+item.axeRuby.name=Ruby Axe
+item.axeSapphire.name=Sapphire Axe
+item.axeAmethyst.name=Amethyst Axe
+item.axeMalachite.name=Malachite Axe
+item.axeEmerald.name=Emerald Axe
+item.axeGemIron.name=Gem-Iron Axe
+
+item.spadeRuby.name=Ruby Spade
+item.spadeSapphire.name=Sapphire Spade
+item.spadeAmethyst.name=Amethyst Spade
+item.spadeMalachite.name=Malachite Spade
+item.spadeEmerald.name=Emerald Spade
+item.spadeGemIron.name=Gem-Iron Spade
+
+item.hoeRuby.name=Ruby Hoe
+item.hoeSapphire.name=Sapphire Hoe
+item.hoeAmethyst.name=Amethyst Hoe
+item.hoeMalachite.name=Malachite Hoe
+item.hoeEmerald.name=Emerald Hoe
+item.hoeGemIron.name=Gem-Iron Hoe
+
+item.helmetRuby.name=Ruby Helmet
+item.helmetSapphire.name=Sapphire Helmet
+item.helmetAmethyst.name=Amethyst Helmet
+item.helmetMalachite.name=Malachite Helmet
+item.helmetEmerald.name=Emerald Helmet
+item.helmetGemIron.name=Gem-Iron Helmet
+
+item.chestplateRuby.name=Ruby Chestplate
+item.chestplateSapphire.name=Sapphire Chestplate
+item.chestplateAmethyst.name=Amethyst Chestplate
+item.chestplateMalachite.name=Malachite Chestplate
+item.chestplateEmerald.name=Emerald Chestplate
+item.chestplateGemIron.name=Gem-Iron Chestplate
+
+item.legginsRuby.name=Ruby Leggins
+item.legginsSapphire.name=Sapphire Leggins
+item.legginsAmethyst.name=Amethyst Leggins
+item.legginsMalachite.name=Malachite Leggins
+item.legginsEmerald.name=Emerald Leggins
+item.legginsGemIron.name=Gem-Iron Leggins
+
+item.bootsRuby.name=Ruby Boots
+item.bootsSapphire.name=Sapphire Boots
+item.bootsAmethyst.name=Amethyst Boots
+item.bootsMalachite.name=Malachite Boots
+item.bootsEmerald.name=Emerald Boots
+items.bootsGemIron.name=Gem-Iron Boots

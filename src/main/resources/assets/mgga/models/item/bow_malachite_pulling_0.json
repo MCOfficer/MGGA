@@ -1,0 +1,6 @@
+{
+    "parent": "item/bowMalachite",
+    "textures": {
+        "layer0": "items/bowMalachite_pulling_0"
+    }
+}
