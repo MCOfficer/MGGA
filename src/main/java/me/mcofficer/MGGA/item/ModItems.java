@@ -5,7 +5,6 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraftforge.registries.IForgeRegistry;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class ModItems {

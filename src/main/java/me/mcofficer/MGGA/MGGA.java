@@ -1,5 +1,6 @@
 package me.mcofficer.MGGA;
 
+import me.mcofficer.MGGA.block.ModBlocks;
 import me.mcofficer.MGGA.item.ModItems;
 import me.mcofficer.MGGA.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
@@ -22,6 +23,7 @@ public class MGGA {
 	public void preInit(FMLPreInitializationEvent event) {
 		System.out.println(name + " is loading...");
 		ModItems.initItems();
+		ModBlocks.initBlocks();
 	}
 
 	@Mod.EventHandler
