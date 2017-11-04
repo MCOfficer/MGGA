@@ -16,10 +16,15 @@ public class ModBlocks {
 	public static void initBlocks() {
 		CreativeTabs bb = CreativeTabs.BUILDING_BLOCKS;
 
-		createBlock("ore_ruby", Material.ROCK, bb);
-		createBlock("ore_sapphire", Material.ROCK, bb);
-		createBlock("ore_malachite", Material.ROCK, bb);
-		createBlock("ore_amethyst", Material.ROCK, bb);
+		createOre("ore_ruby", bb);
+		createOre("ore_sapphire", bb);
+		createOre("ore_malachite", bb);
+		createOre("ore_amethyst", bb);
+
+		createBlock("block_ruby", Material.IRON, bb);
+		createBlock("block_sapphire", Material.IRON, bb);
+		createBlock("block_malachite", Material.IRON, bb);
+		createBlock("block_amethyst", Material.IRON, bb);
 	}
 
 	public static void register(IForgeRegistry<Block> registry) {
@@ -39,6 +44,11 @@ public class ModBlocks {
 
 	public static void createBlock (String name, Material material, CreativeTabs tab) {
 		BlockBase block = new BlockBase(material, name).setCreativeTab(tab);
+		blocks.add(block);
+	}
+
+	public static void createOre (String name, CreativeTabs tab) {
+		BlockOre block = new BlockOre(name).setCreativeTab(tab);
 		blocks.add(block);
 	}
 
